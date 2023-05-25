@@ -1,2 +1,2 @@
 # Chryzodes
-este código genera chryzodes dados dos primos relativos
+Este código genera chryzodes dados dos primos relativos

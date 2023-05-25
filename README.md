@@ -1,2 +1,2 @@
 # Chryzodes
-Este código genera chryzodes dados dos primos relativos.
+Código en Scratch para construir chryzodes
